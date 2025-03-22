@@ -75,7 +75,7 @@ HandicraftPromo/
 This project is licensed under the **MIT License**. See the LICENSE file for more details.
 
 ## Contact
-For any issues or feature requests, please open an issue on GitHub or contact **[Your Name]** at **your.email@example.com**.
+For any issues or feature requests, please open an issue on GitHub or contact **Nethru Randev** at **wickramasekaranethru@gmail.com**.
 
 ---
 Happy Coding! 🚀
