@@ -17,7 +17,7 @@ Handicraft Promo is an Android application designed to showcase and promote hand
 ### Steps to Run the Project
 1. Clone the repository from GitHub:
    ```
-   git clone https://github.com/yourusername/HandicraftPromo.git
+   git clone https://github.com/Nethru2002/HandicraftPromo.git
    ```
 2. Open the project in **Android Studio**.
 3. Sync the project dependencies via **Gradle Sync**.
