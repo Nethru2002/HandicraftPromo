@@ -55,7 +55,7 @@ HandicraftPromo/
 1. **Fork the repository** on GitHub.
 2. **Clone your fork**:
    ```
-   git clone https://github.com/yourusername/HandicraftPromo.git
+   git clone https://github.com/Nethru2002/HandicraftPromo.git
    ```
 3. **Create a new branch** for your feature:
    ```
